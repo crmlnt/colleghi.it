@@ -1,0 +1,63 @@
+body {
+	padding-top: 50px;
+}
+
+h1, h2, h3, p	{
+	font-family: 'Varela Round', sans-serif;
+}
+
+h2 {
+	text-align: center;;
+}
+
+
+
+.jumbotron {
+	color:#2c3e50;
+	background: url(https://source.unsplash.com/iAW5QyehNcc);
+	background-size: cover;
+	text-align: center;
+	height: 550px;
+}
+
+.navbar-inverse {
+	background: #f46242; 
+	border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	text-align: center;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.firtsparagraph {
+	margin-bottom: 50px;
+}
+
+h5, h4, li {
+	color: white;
+}
+
+.footer {
+	padding-top: 20px;
+    max-width: 100%;
+	background: #f46242; 
+	height: 200px;
+	padding-left: 20px;
+}
+
+.footer>p {
+	color: white;
+}
+
+
+
+/*
+font-family: 'Baloo Tammudu', cursive;
+font-family: 'Varela Round', sans-serif;
+*/
+
